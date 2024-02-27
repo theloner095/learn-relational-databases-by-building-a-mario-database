@@ -24,3 +24,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 \d
 psql --user=freecodecamp --db
 echo hello PostgreSQL
+psql --username=freecodecamp --dbname=postgres
